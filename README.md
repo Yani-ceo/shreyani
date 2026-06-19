@@ -5,9 +5,9 @@ IT student interested in:
 - Robotics
 
 Project
-# Voice controlled wheelchair
-# Calculator
-# student_management
+ - Voice controlled wheelchair
+ - student_management
+ - calculator
 
 skills
 - Python
